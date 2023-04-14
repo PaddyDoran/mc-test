@@ -1,7 +1,7 @@
 {
-  "name": "MC Dynamite",
-  "namespace": "mc-dynamite",
-  "description": "A Managed Component for making the internet better",
+  "name": "pd-mc-23",
+  "namespace": "pd-mc-23",
+  "description": "A Simple Managed Component for logging time on page calls",
   "icon": "assets/icon.svg",
   "permissions": {}
 }
