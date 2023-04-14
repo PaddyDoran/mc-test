@@ -1,0 +1,7 @@
+{
+  "name": "MC Dynamite",
+  "namespace": "mc-dynamite",
+  "description": "A Managed Component for making the internet better",
+  "icon": "assets/icon.svg",
+  "permissions": {}
+}
